@@ -1,0 +1,22 @@
+                 Results: Ordinary least squares
+=================================================================
+Model:              OLS              Adj. R-squared:     0.236   
+Dependent Variable: obs_value        AIC:                386.2264
+Date:               2025-12-20 00:56 BIC:                390.2043
+No. Observations:   54               Log-Likelihood:     -191.11 
+Df Model:           1                F-statistic:        43.38   
+Df Residuals:       52               Prob (F-statistic): 5.52e-07
+R-squared:          0.250            Scale:              72.105  
+------------------------------------------------------------------
+               Coef.   Std.Err.     z     P>|z|    [0.025   0.975]
+------------------------------------------------------------------
+const         19.9630    1.1538  17.3014  0.0000  17.7015  22.2244
+sex_binary     9.6296    1.4621   6.5863  0.0000   6.7640  12.4952
+-----------------------------------------------------------------
+Omnibus:               0.165        Durbin-Watson:          2.309
+Prob(Omnibus):         0.921        Jarque-Bera (JB):       0.000
+Skew:                  -0.006       Prob(JB):               1.000
+Kurtosis:              2.998        Condition No.:          3    
+=================================================================
+Notes:
+[1] Standard Errors are robust to cluster correlation (cluster)

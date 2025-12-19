@@ -1,0 +1,23 @@
+                 Results: Ordinary least squares
+=================================================================
+Model:              OLS              Adj. R-squared:     0.210   
+Dependent Variable: smoke_pct        AIC:                381.5824
+Date:               2025-12-20 00:55 BIC:                387.4933
+No. Observations:   53               Log-Likelihood:     -187.79 
+Df Model:           2                F-statistic:        20.06   
+Df Residuals:       50               Prob (F-statistic): 5.37e-06
+R-squared:          0.240            Scale:              74.207  
+------------------------------------------------------------------
+               Coef.   Std.Err.     z     P>|z|    [0.025   0.975]
+------------------------------------------------------------------
+const         20.6162    3.5659   5.7814  0.0000  13.6271  27.6054
+sex            9.5498    1.9358   4.9332  0.0000   5.7556  13.3440
+educ_esl_pct  -0.0607    0.4527  -0.1341  0.8933  -0.9479   0.8265
+-----------------------------------------------------------------
+Omnibus:               0.183        Durbin-Watson:          1.312
+Prob(Omnibus):         0.913        Jarque-Bera (JB):       0.010
+Skew:                  -0.033       Prob(JB):               0.995
+Kurtosis:              3.001        Condition No.:          23   
+=================================================================
+Notes:
+[1] Standard Errors are robust to cluster correlation (cluster)
