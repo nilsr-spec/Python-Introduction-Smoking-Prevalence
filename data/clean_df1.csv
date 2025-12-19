@@ -1,0 +1,865 @@
+,last_update,freq,unit,wstatus,age,sex,geo,time_period,obs_value
+0,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Austria,2000,10.2
+1,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Austria,2001,10.2
+2,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Austria,2002,9.5
+3,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Austria,2003,9.0
+4,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Austria,2004,9.8
+5,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Austria,2005,9.3
+6,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Austria,2006,10.0
+7,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Austria,2007,10.8
+8,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Austria,2008,10.2
+9,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Austria,2009,8.8
+10,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Austria,2010,8.3
+11,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Austria,2011,8.5
+12,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Austria,2012,7.8
+13,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Austria,2013,7.5
+14,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Austria,2014,7.0
+15,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Austria,2015,7.3
+16,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Austria,2016,6.9
+17,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Austria,2017,7.4
+18,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Austria,2018,7.3
+19,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Austria,2019,7.8
+20,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Austria,2020,8.1
+21,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Austria,2021,8.0
+22,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Austria,2022,8.4
+23,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Austria,2023,8.6
+24,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Austria,2024,8.1
+25,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Bosnia and Herzegovina,2021,4.7
+26,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Bosnia and Herzegovina,2022,3.6
+27,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Bosnia and Herzegovina,2023,4.2
+28,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Bosnia and Herzegovina,2024,3.8
+29,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Belgium,2000,13.8
+30,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Belgium,2001,13.8
+31,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Belgium,2002,14.1
+32,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Belgium,2003,14.3
+33,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Belgium,2004,13.1
+34,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Belgium,2005,12.9
+35,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Belgium,2006,12.6
+36,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Belgium,2007,12.1
+37,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Belgium,2008,12.0
+38,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Belgium,2009,11.1
+39,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Belgium,2010,11.9
+40,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Belgium,2011,12.3
+41,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Belgium,2012,12.0
+42,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Belgium,2013,11.0
+43,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Belgium,2014,9.8
+44,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Belgium,2015,10.1
+45,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Belgium,2016,8.8
+46,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Belgium,2017,8.9
+47,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Belgium,2018,8.6
+48,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Belgium,2019,8.4
+49,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Belgium,2020,8.1
+50,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Belgium,2021,6.7
+51,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Belgium,2022,6.4
+52,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Belgium,2023,6.2
+53,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Belgium,2024,7.0
+54,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Bulgaria,2001,20.5
+55,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Bulgaria,2002,20.7
+56,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Bulgaria,2003,21.9
+57,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Bulgaria,2004,21.4
+58,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Bulgaria,2005,20.4
+59,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Bulgaria,2006,17.3
+60,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Bulgaria,2007,14.9
+61,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Bulgaria,2008,14.8
+62,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Bulgaria,2009,14.7
+63,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Bulgaria,2010,12.6
+64,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Bulgaria,2011,11.8
+65,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Bulgaria,2012,12.5
+66,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Bulgaria,2013,12.5
+67,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Bulgaria,2014,12.9
+68,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Bulgaria,2015,13.4
+69,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Bulgaria,2016,13.8
+70,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Bulgaria,2017,12.7
+71,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Bulgaria,2018,12.7
+72,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Bulgaria,2019,13.9
+73,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Bulgaria,2020,12.8
+74,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Bulgaria,2021,12.0
+75,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Bulgaria,2022,10.3
+76,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Bulgaria,2023,9.3
+77,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Bulgaria,2024,8.2
+78,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Switzerland,2000,7.3
+79,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Switzerland,2001,6.6
+80,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Switzerland,2002,6.7
+81,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Switzerland,2003,9.7
+82,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Switzerland,2004,9.5
+83,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Switzerland,2005,9.7
+84,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Switzerland,2006,9.6
+85,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Switzerland,2007,7.6
+86,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Switzerland,2008,7.7
+87,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Switzerland,2009,9.1
+88,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Switzerland,2010,6.7
+89,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Switzerland,2011,6.3
+90,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Switzerland,2012,5.5
+91,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Switzerland,2013,5.6
+92,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Switzerland,2014,5.6
+93,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Switzerland,2015,5.2
+94,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Switzerland,2016,4.9
+95,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Switzerland,2017,4.5
+96,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Switzerland,2018,4.4
+97,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Switzerland,2019,4.4
+98,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Switzerland,2020,4.0
+99,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Switzerland,2021,5.1
+100,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Switzerland,2022,6.5
+101,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Switzerland,2023,5.7
+102,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Switzerland,2024,5.7
+103,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Cyprus,2000,18.5
+104,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Cyprus,2001,17.9
+105,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Cyprus,2002,15.9
+106,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Cyprus,2003,17.3
+107,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Cyprus,2004,20.6
+108,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Cyprus,2005,18.2
+109,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Cyprus,2006,14.9
+110,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Cyprus,2007,12.5
+111,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Cyprus,2008,13.7
+112,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Cyprus,2009,11.7
+113,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Cyprus,2010,12.7
+114,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Cyprus,2011,11.3
+115,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Cyprus,2012,11.4
+116,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Cyprus,2013,9.1
+117,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Cyprus,2014,6.8
+118,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Cyprus,2015,5.2
+119,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Cyprus,2016,7.6
+120,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Cyprus,2017,8.5
+121,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Cyprus,2018,7.8
+122,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Cyprus,2019,9.0
+123,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Cyprus,2020,11.6
+124,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Cyprus,2021,9.8
+125,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Cyprus,2022,8.2
+126,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Cyprus,2023,10.4
+127,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Cyprus,2024,11.3
+128,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Czechia,2002,5.7
+129,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Czechia,2003,6.5
+130,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Czechia,2004,6.3
+131,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Czechia,2005,6.2
+132,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Czechia,2006,5.1
+133,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Czechia,2007,5.2
+134,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Czechia,2008,5.6
+135,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Czechia,2009,5.4
+136,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Czechia,2010,4.9
+137,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Czechia,2011,4.9
+138,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Czechia,2012,5.5
+139,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Czechia,2013,5.4
+140,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Czechia,2014,5.5
+141,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Czechia,2015,6.2
+142,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Czechia,2016,6.6
+143,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Czechia,2017,6.7
+144,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Czechia,2018,6.2
+145,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Czechia,2019,6.7
+146,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Czechia,2020,7.6
+147,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Czechia,2021,6.4
+148,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Czechia,2022,6.2
+149,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Czechia,2023,6.4
+150,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Czechia,2024,5.4
+151,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Germany,2000,14.6
+152,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Germany,2001,12.3
+153,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Germany,2002,12.5
+154,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Germany,2003,12.8
+155,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Germany,2004,12.1
+156,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Germany,2005,13.5
+157,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Germany,2006,13.7
+158,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Germany,2007,12.5
+159,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Germany,2008,11.8
+160,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Germany,2009,11.1
+161,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Germany,2010,11.8
+162,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Germany,2011,11.6
+163,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Germany,2012,10.5
+164,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Germany,2013,9.8
+165,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Germany,2014,9.5
+166,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Germany,2015,10.1
+167,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Germany,2016,10.3
+168,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Germany,2017,10.1
+169,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Germany,2018,10.3
+170,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Germany,2019,10.3
+171,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Germany,2020,10.1
+172,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Germany,2021,12.3
+173,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Germany,2022,12.5
+174,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Germany,2023,13.0
+175,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Germany,2024,12.9
+176,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Denmark,2000,11.7
+177,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Denmark,2001,9.2
+178,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Denmark,2002,9.0
+179,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Denmark,2003,10.4
+180,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Denmark,2004,8.8
+181,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Denmark,2005,8.7
+182,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Denmark,2006,9.1
+183,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Denmark,2007,12.9
+184,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Denmark,2008,12.7
+185,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Denmark,2009,11.5
+186,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Denmark,2010,11.5
+187,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Denmark,2011,10.3
+188,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Denmark,2012,9.6
+189,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Denmark,2013,8.2
+190,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Denmark,2014,8.1
+191,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Denmark,2015,8.1
+192,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Denmark,2016,7.5
+193,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Denmark,2017,8.8
+194,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Denmark,2018,10.4
+195,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Denmark,2019,9.9
+196,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Denmark,2020,9.3
+197,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Denmark,2021,9.8
+198,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Denmark,2022,10.0
+199,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Denmark,2023,10.4
+200,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Denmark,2024,10.4
+201,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Euro area – 20 countries (from 2023),2002,18.7
+202,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Euro area – 20 countries (from 2023),2003,18.2
+203,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Euro area – 20 countries (from 2023),2004,17.7
+204,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Euro area – 20 countries (from 2023),2005,17.4
+205,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Euro area – 20 countries (from 2023),2006,17.1
+206,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Euro area – 20 countries (from 2023),2007,16.5
+207,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Euro area – 20 countries (from 2023),2008,16.1
+208,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Euro area – 20 countries (from 2023),2009,15.6
+209,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Euro area – 20 countries (from 2023),2010,15.2
+210,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Euro area – 20 countries (from 2023),2011,14.5
+211,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Euro area – 20 countries (from 2023),2012,13.6
+212,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Euro area – 20 countries (from 2023),2013,12.7
+213,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Euro area – 20 countries (from 2023),2014,11.7
+214,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Euro area – 20 countries (from 2023),2015,11.5
+215,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Euro area – 20 countries (from 2023),2016,11.0
+216,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Euro area – 20 countries (from 2023),2017,10.8
+217,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Euro area – 20 countries (from 2023),2018,10.8
+218,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Euro area – 20 countries (from 2023),2019,10.5
+219,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Euro area – 20 countries (from 2023),2020,10.3
+220,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Euro area – 20 countries (from 2023),2021,9.8
+221,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Euro area – 20 countries (from 2023),2022,9.8
+222,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Euro area – 20 countries (from 2023),2023,9.8
+223,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Euro area – 20 countries (from 2023),2024,9.7
+224,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Estonia,2000,15.1
+225,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Estonia,2001,14.7
+226,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Estonia,2002,13.6
+227,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Estonia,2003,13.7
+228,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Estonia,2004,13.9
+229,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Estonia,2005,14.0
+230,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Estonia,2006,13.4
+231,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Estonia,2007,14.4
+232,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Estonia,2008,14.0
+233,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Estonia,2009,13.5
+234,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Estonia,2010,11.0
+235,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Estonia,2011,10.6
+236,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Estonia,2012,10.3
+237,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Estonia,2013,9.7
+238,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Estonia,2014,12.0
+239,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Estonia,2015,13.7
+240,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Estonia,2016,11.4
+241,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Estonia,2017,11.8
+242,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Estonia,2018,12.0
+243,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Estonia,2019,11.2
+244,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Estonia,2020,8.5
+245,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Estonia,2021,9.8
+246,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Estonia,2022,10.8
+247,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Estonia,2023,9.7
+248,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Estonia,2024,11.0
+249,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Greece,2000,18.2
+250,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Greece,2001,16.9
+251,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Greece,2002,16.2
+252,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Greece,2003,15.6
+253,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Greece,2004,14.5
+254,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Greece,2005,13.3
+255,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Greece,2006,15.1
+256,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Greece,2007,14.3
+257,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Greece,2008,14.4
+258,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Greece,2009,14.2
+259,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Greece,2010,13.5
+260,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Greece,2011,12.9
+261,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Greece,2012,11.3
+262,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Greece,2013,10.1
+263,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Greece,2014,9.0
+264,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Greece,2015,7.9
+265,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Greece,2016,6.2
+266,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Greece,2017,6.0
+267,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Greece,2018,4.7
+268,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Greece,2019,4.1
+269,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Greece,2020,3.8
+270,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Greece,2021,3.2
+271,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Greece,2022,4.1
+272,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Greece,2023,3.7
+273,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Greece,2024,3.0
+274,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Spain,2000,29.1
+275,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Spain,2001,29.7
+276,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Spain,2002,30.9
+277,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Spain,2003,31.7
+278,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Spain,2004,32.2
+279,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Spain,2005,31.0
+280,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Spain,2006,30.3
+281,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Spain,2007,30.8
+282,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Spain,2008,31.7
+283,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Spain,2009,30.9
+284,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Spain,2010,28.2
+285,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Spain,2011,26.3
+286,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Spain,2012,24.7
+287,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Spain,2013,23.6
+288,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Spain,2014,21.9
+289,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Spain,2015,20.0
+290,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Spain,2016,19.0
+291,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Spain,2017,18.3
+292,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Spain,2018,17.9
+293,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Spain,2019,17.3
+294,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Spain,2020,16.0
+295,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Spain,2021,13.3
+296,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Spain,2022,13.9
+297,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Spain,2023,13.7
+298,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Spain,2024,13.0
+299,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,European Union - 27 countries (from 2020),2002,16.9
+300,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,European Union - 27 countries (from 2020),2003,16.4
+301,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,European Union - 27 countries (from 2020),2004,16.0
+302,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,European Union - 27 countries (from 2020),2005,15.6
+303,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,European Union - 27 countries (from 2020),2006,15.2
+304,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,European Union - 27 countries (from 2020),2007,14.7
+305,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,European Union - 27 countries (from 2020),2008,14.4
+306,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,European Union - 27 countries (from 2020),2009,14.0
+307,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,European Union - 27 countries (from 2020),2010,13.8
+308,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,European Union - 27 countries (from 2020),2011,13.2
+309,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,European Union - 27 countries (from 2020),2012,12.6
+310,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,European Union - 27 countries (from 2020),2013,11.8
+311,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,European Union - 27 countries (from 2020),2014,11.1
+312,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,European Union - 27 countries (from 2020),2015,11.0
+313,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,European Union - 27 countries (from 2020),2016,10.6
+314,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,European Union - 27 countries (from 2020),2017,10.5
+315,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,European Union - 27 countries (from 2020),2018,10.5
+316,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,European Union - 27 countries (from 2020),2019,10.1
+317,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,European Union - 27 countries (from 2020),2020,10.0
+318,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,European Union - 27 countries (from 2020),2021,9.7
+319,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,European Union - 27 countries (from 2020),2022,9.6
+320,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,European Union - 27 countries (from 2020),2023,9.6
+321,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,European Union - 27 countries (from 2020),2024,9.4
+322,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Finland,2000,9.0
+323,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Finland,2001,9.5
+324,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Finland,2002,9.7
+325,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Finland,2003,10.1
+326,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Finland,2004,10.0
+327,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Finland,2005,10.3
+328,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Finland,2006,9.7
+329,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Finland,2007,9.1
+330,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Finland,2008,9.8
+331,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Finland,2009,9.9
+332,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Finland,2010,10.3
+333,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Finland,2011,9.8
+334,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Finland,2012,8.9
+335,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Finland,2013,9.3
+336,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Finland,2014,9.5
+337,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Finland,2015,9.2
+338,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Finland,2016,7.9
+339,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Finland,2017,8.2
+340,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Finland,2018,8.3
+341,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Finland,2019,7.3
+342,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Finland,2020,8.2
+343,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Finland,2021,8.2
+344,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Finland,2022,8.4
+345,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Finland,2023,9.6
+346,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Finland,2024,9.6
+347,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,France,2000,13.3
+348,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,France,2001,13.5
+349,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,France,2002,13.4
+350,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,France,2003,12.7
+351,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,France,2004,12.3
+352,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,France,2005,12.5
+353,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,France,2006,12.7
+354,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,France,2007,12.8
+355,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,France,2008,11.8
+356,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,France,2009,12.4
+357,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,France,2010,12.7
+358,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,France,2011,12.3
+359,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,France,2012,11.8
+360,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,France,2013,9.7
+361,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,France,2014,8.8
+362,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,France,2015,9.2
+363,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,France,2016,8.8
+364,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,France,2017,8.8
+365,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,France,2018,8.7
+366,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,France,2019,8.2
+367,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,France,2020,8.0
+368,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,France,2021,7.8
+369,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,France,2022,7.6
+370,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,France,2023,7.6
+371,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,France,2024,7.7
+372,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Croatia,2002,8.0
+373,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Croatia,2003,7.9
+374,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Croatia,2004,5.4
+375,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Croatia,2005,5.1
+376,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Croatia,2006,4.7
+377,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Croatia,2007,4.5
+378,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Croatia,2008,4.4
+379,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Croatia,2009,5.2
+380,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Croatia,2010,5.2
+381,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Croatia,2011,5.0
+382,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Croatia,2012,5.0
+383,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Croatia,2013,4.3
+384,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Croatia,2014,2.8
+385,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Croatia,2015,2.7
+386,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Croatia,2016,2.8
+387,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Croatia,2017,2.9
+388,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Croatia,2018,3.1
+389,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Croatia,2019,3.0
+390,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Croatia,2020,2.2
+391,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Croatia,2021,2.4
+392,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Croatia,2022,2.1
+393,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Croatia,2023,2.0
+394,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Croatia,2024,2.0
+395,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Hungary,2000,13.9
+396,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Hungary,2001,13.1
+397,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Hungary,2002,12.2
+398,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Hungary,2003,12.0
+399,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Hungary,2004,12.6
+400,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Hungary,2005,12.5
+401,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Hungary,2006,12.5
+402,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Hungary,2007,11.4
+403,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Hungary,2008,11.7
+404,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Hungary,2009,11.5
+405,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Hungary,2010,10.8
+406,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Hungary,2011,11.4
+407,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Hungary,2012,11.8
+408,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Hungary,2013,11.9
+409,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Hungary,2014,11.4
+410,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Hungary,2015,11.6
+411,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Hungary,2016,12.4
+412,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Hungary,2017,12.5
+413,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Hungary,2018,12.4
+414,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Hungary,2019,11.9
+415,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Hungary,2020,12.0
+416,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Hungary,2021,12.0
+417,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Hungary,2022,12.2
+418,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Hungary,2023,11.6
+419,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Hungary,2024,10.3
+420,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Ireland,2002,14.6
+421,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Ireland,2003,13.1
+422,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Ireland,2004,13.1
+423,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Ireland,2005,12.5
+424,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Ireland,2006,12.3
+425,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Ireland,2007,12.0
+426,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Ireland,2008,11.7
+427,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Ireland,2009,11.8
+428,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Ireland,2010,11.9
+429,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Ireland,2011,11.1
+430,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Ireland,2012,9.9
+431,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Ireland,2013,8.7
+432,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Ireland,2014,6.7
+433,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Ireland,2015,6.8
+434,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Ireland,2016,6.0
+435,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Ireland,2017,5.0
+436,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Ireland,2018,5.0
+437,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Ireland,2019,5.1
+438,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Ireland,2020,5.0
+439,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Ireland,2021,3.3
+440,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Ireland,2022,3.7
+441,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Ireland,2023,4.0
+442,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Ireland,2024,2.8
+443,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Iceland,2000,29.8
+444,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Iceland,2001,30.9
+445,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Iceland,2002,28.8
+446,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Iceland,2003,20.3
+447,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Iceland,2004,24.9
+448,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Iceland,2005,24.9
+449,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Iceland,2006,
+450,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Iceland,2007,23.2
+451,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Iceland,2008,24.4
+452,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Iceland,2009,21.3
+453,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Iceland,2010,22.6
+454,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Iceland,2011,19.7
+455,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Iceland,2012,20.1
+456,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Iceland,2013,20.5
+457,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Iceland,2014,19.1
+458,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Iceland,2015,18.8
+459,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Iceland,2016,19.8
+460,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Iceland,2017,17.8
+461,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Iceland,2018,21.5
+462,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Iceland,2019,17.9
+463,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Iceland,2020,14.8
+464,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Iceland,2021,14.4
+465,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Iceland,2022,16.5
+466,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Iceland,2023,15.8
+467,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Iceland,2024,15.3
+468,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Italy,2000,25.1
+469,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Italy,2001,25.9
+470,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Italy,2002,24.2
+471,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Italy,2003,23.0
+472,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Italy,2004,23.1
+473,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Italy,2005,22.1
+474,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Italy,2006,20.4
+475,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Italy,2007,19.5
+476,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Italy,2008,19.6
+477,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Italy,2009,19.1
+478,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Italy,2010,18.6
+479,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Italy,2011,17.8
+480,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Italy,2012,17.3
+481,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Italy,2013,16.8
+482,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Italy,2014,15.0
+483,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Italy,2015,14.7
+484,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Italy,2016,13.8
+485,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Italy,2017,14.0
+486,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Italy,2018,14.3
+487,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Italy,2019,13.3
+488,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Italy,2020,14.2
+489,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Italy,2021,12.7
+490,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Italy,2022,11.5
+491,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Italy,2023,10.5
+492,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Italy,2024,9.8
+493,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Lithuania,2000,16.5
+494,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Lithuania,2001,14.9
+495,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Lithuania,2002,13.4
+496,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Lithuania,2003,11.4
+497,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Lithuania,2004,10.3
+498,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Lithuania,2005,8.4
+499,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Lithuania,2006,8.8
+500,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Lithuania,2007,7.8
+501,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Lithuania,2008,7.5
+502,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Lithuania,2009,8.7
+503,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Lithuania,2010,7.9
+504,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Lithuania,2011,7.4
+505,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Lithuania,2012,6.5
+506,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Lithuania,2013,6.3
+507,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Lithuania,2014,5.9
+508,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Lithuania,2015,5.5
+509,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Lithuania,2016,4.8
+510,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Lithuania,2017,5.4
+511,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Lithuania,2018,4.6
+512,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Lithuania,2019,4.0
+513,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Lithuania,2020,5.6
+514,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Lithuania,2021,5.3
+515,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Lithuania,2022,4.8
+516,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Lithuania,2023,6.4
+517,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Lithuania,2024,8.4
+518,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Luxembourg,2000,16.8
+519,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Luxembourg,2001,18.1
+520,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Luxembourg,2002,17.0
+521,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Luxembourg,2003,12.3
+522,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Luxembourg,2004,12.7
+523,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Luxembourg,2005,13.3
+524,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Luxembourg,2006,14.0
+525,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Luxembourg,2007,12.5
+526,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Luxembourg,2008,13.4
+527,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Luxembourg,2009,7.7
+528,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Luxembourg,2010,7.1
+529,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Luxembourg,2011,6.2
+530,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Luxembourg,2012,8.1
+531,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Luxembourg,2013,6.1
+532,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Luxembourg,2014,6.1
+533,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Luxembourg,2015,9.3
+534,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Luxembourg,2016,5.5
+535,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Luxembourg,2017,7.3
+536,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Luxembourg,2018,6.3
+537,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Luxembourg,2019,7.2
+538,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Luxembourg,2020,8.2
+539,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Luxembourg,2021,9.3
+540,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Luxembourg,2022,8.2
+541,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Luxembourg,2023,6.8
+542,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Luxembourg,2024,7.8
+543,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Latvia,2002,16.5
+544,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Latvia,2003,18.8
+545,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Latvia,2004,15.9
+546,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Latvia,2005,15.4
+547,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Latvia,2006,15.6
+548,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Latvia,2007,15.6
+549,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Latvia,2008,15.5
+550,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Latvia,2009,14.3
+551,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Latvia,2010,12.9
+552,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Latvia,2011,11.6
+553,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Latvia,2012,10.6
+554,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Latvia,2013,9.8
+555,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Latvia,2014,8.5
+556,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Latvia,2015,9.9
+557,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Latvia,2016,10.0
+558,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Latvia,2017,8.6
+559,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Latvia,2018,8.3
+560,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Latvia,2019,8.7
+561,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Latvia,2020,7.2
+562,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Latvia,2021,7.3
+563,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Latvia,2022,6.7
+564,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Latvia,2023,7.7
+565,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Latvia,2024,7.9
+566,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Montenegro,2011,7.2
+567,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Montenegro,2012,6.7
+568,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Montenegro,2013,5.6
+569,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Montenegro,2014,5.1
+570,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Montenegro,2015,5.7
+571,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Montenegro,2016,5.5
+572,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Montenegro,2017,5.4
+573,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Montenegro,2018,4.6
+574,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Montenegro,2019,5.0
+575,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Montenegro,2020,3.6
+576,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,North Macedonia,2006,22.8
+577,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,North Macedonia,2007,19.9
+578,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,North Macedonia,2008,19.6
+579,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,North Macedonia,2009,16.2
+580,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,North Macedonia,2010,15.5
+581,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,North Macedonia,2011,13.5
+582,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,North Macedonia,2012,11.7
+583,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,North Macedonia,2013,11.4
+584,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,North Macedonia,2014,12.5
+585,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,North Macedonia,2015,11.4
+586,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,North Macedonia,2016,9.9
+587,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,North Macedonia,2017,8.5
+588,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,North Macedonia,2018,7.1
+589,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,North Macedonia,2019,7.1
+590,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,North Macedonia,2020,5.7
+591,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,North Macedonia,2021,6.1
+592,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,North Macedonia,2022,6.2
+593,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,North Macedonia,2023,8.4
+594,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,North Macedonia,2024,8.0
+595,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Malta,2000,54.2
+596,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Malta,2001,54.4
+597,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Malta,2002,53.2
+598,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Malta,2003,49.9
+599,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Malta,2004,42.1
+600,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Malta,2005,33.0
+601,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Malta,2006,32.2
+602,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Malta,2007,30.2
+603,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Malta,2008,27.2
+604,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Malta,2009,25.7
+605,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Malta,2010,21.4
+606,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Malta,2011,18.8
+607,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Malta,2012,18.1
+608,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Malta,2013,17.1
+609,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Malta,2014,17.0
+610,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Malta,2015,16.3
+611,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Malta,2016,15.6
+612,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Malta,2017,14.0
+613,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Malta,2018,14.0
+614,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Malta,2019,14.2
+615,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Malta,2020,13.0
+616,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Malta,2021,10.9
+617,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Malta,2022,10.3
+618,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Malta,2023,10.2
+619,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Malta,2024,9.5
+620,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Netherlands,2000,15.4
+621,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Netherlands,2001,15.1
+622,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Netherlands,2002,15.3
+623,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Netherlands,2003,14.3
+624,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Netherlands,2004,14.1
+625,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Netherlands,2005,14.3
+626,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Netherlands,2006,12.9
+627,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Netherlands,2007,11.9
+628,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Netherlands,2008,11.4
+629,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Netherlands,2009,11.3
+630,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Netherlands,2010,10.1
+631,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Netherlands,2011,9.2
+632,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Netherlands,2012,8.9
+633,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Netherlands,2013,9.3
+634,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Netherlands,2014,8.7
+635,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Netherlands,2015,8.2
+636,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Netherlands,2016,8.0
+637,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Netherlands,2017,7.1
+638,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Netherlands,2018,7.3
+639,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Netherlands,2019,7.5
+640,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Netherlands,2020,7.0
+641,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Netherlands,2021,5.1
+642,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Netherlands,2022,5.6
+643,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Netherlands,2023,6.2
+644,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Netherlands,2024,7.0
+645,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Norway,2006,17.8
+646,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Norway,2007,18.4
+647,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Norway,2008,17.0
+648,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Norway,2009,17.6
+649,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Norway,2010,17.4
+650,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Norway,2011,16.6
+651,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Norway,2012,14.8
+652,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Norway,2013,13.7
+653,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Norway,2014,11.7
+654,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Norway,2015,10.2
+655,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Norway,2016,10.9
+656,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Norway,2017,10.4
+657,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Norway,2018,9.9
+658,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Norway,2019,9.9
+659,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Norway,2020,9.9
+660,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Norway,2021,12.3
+661,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Norway,2022,13.2
+662,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Norway,2023,12.5
+663,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Norway,2024,13.0
+664,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Poland,2001,7.4
+665,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Poland,2002,7.2
+666,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Poland,2003,6.0
+667,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Poland,2004,5.6
+668,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Poland,2005,5.3
+669,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Poland,2006,5.4
+670,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Poland,2007,5.0
+671,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Poland,2008,5.0
+672,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Poland,2009,5.3
+673,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Poland,2010,5.4
+674,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Poland,2011,5.6
+675,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Poland,2012,5.7
+676,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Poland,2013,5.6
+677,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Poland,2014,5.4
+678,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Poland,2015,5.3
+679,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Poland,2016,5.2
+680,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Poland,2017,5.0
+681,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Poland,2018,4.8
+682,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Poland,2019,5.1
+683,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Poland,2020,5.3
+684,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Poland,2021,5.8
+685,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Poland,2022,4.7
+686,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Poland,2023,3.7
+687,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Poland,2024,4.1
+688,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Portugal,2000,43.7
+689,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Portugal,2001,44.3
+690,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Portugal,2002,45.0
+691,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Portugal,2003,41.2
+692,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Portugal,2004,39.3
+693,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Portugal,2005,38.3
+694,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Portugal,2006,38.5
+695,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Portugal,2007,36.5
+696,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Portugal,2008,34.9
+697,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Portugal,2009,30.9
+698,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Portugal,2010,28.3
+699,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Portugal,2011,22.8
+700,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Portugal,2012,20.5
+701,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Portugal,2013,18.7
+702,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Portugal,2014,17.3
+703,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Portugal,2015,13.5
+704,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Portugal,2016,13.9
+705,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Portugal,2017,12.6
+706,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Portugal,2018,11.6
+707,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Portugal,2019,10.5
+708,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Portugal,2020,9.1
+709,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Portugal,2021,6.4
+710,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Portugal,2022,6.3
+711,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Portugal,2023,8.1
+712,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Portugal,2024,6.6
+713,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Romania,2000,22.9
+714,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Romania,2001,21.7
+715,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Romania,2002,23.0
+716,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Romania,2003,22.5
+717,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Romania,2004,22.4
+718,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Romania,2005,19.6
+719,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Romania,2006,17.9
+720,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Romania,2007,17.3
+721,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Romania,2008,15.9
+722,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Romania,2009,16.6
+723,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Romania,2010,19.3
+724,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Romania,2011,18.1
+725,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Romania,2012,17.8
+726,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Romania,2013,17.3
+727,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Romania,2014,18.1
+728,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Romania,2015,19.1
+729,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Romania,2016,18.5
+730,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Romania,2017,18.1
+731,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Romania,2018,16.4
+732,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Romania,2019,15.3
+733,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Romania,2020,15.6
+734,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Romania,2021,15.3
+735,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Romania,2022,15.6
+736,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Romania,2023,16.6
+737,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Romania,2024,16.8
+738,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Serbia,2010,8.3
+739,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Serbia,2011,8.5
+740,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Serbia,2012,8.1
+741,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Serbia,2013,8.9
+742,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Serbia,2014,8.4
+743,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Serbia,2015,7.5
+744,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Serbia,2016,7.0
+745,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Serbia,2017,6.2
+746,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Serbia,2018,6.8
+747,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Serbia,2019,6.6
+748,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Serbia,2020,5.6
+749,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Serbia,2021,7.7
+750,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Serbia,2022,5.7
+751,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Serbia,2023,5.8
+752,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Serbia,2024,6.2
+753,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Sweden,2000,7.3
+754,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Sweden,2001,10.2
+755,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Sweden,2002,10.0
+756,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Sweden,2003,9.2
+757,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Sweden,2004,9.2
+758,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Sweden,2005,10.8
+759,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Sweden,2006,8.6
+760,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Sweden,2007,8.0
+761,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Sweden,2008,7.9
+762,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Sweden,2009,7.0
+763,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Sweden,2010,6.5
+764,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Sweden,2011,6.6
+765,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Sweden,2012,7.5
+766,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Sweden,2013,7.1
+767,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Sweden,2014,6.7
+768,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Sweden,2015,7.0
+769,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Sweden,2016,7.4
+770,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Sweden,2017,7.7
+771,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Sweden,2018,7.5
+772,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Sweden,2019,6.5
+773,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Sweden,2020,7.7
+774,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Sweden,2021,8.4
+775,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Sweden,2022,8.8
+776,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Sweden,2023,7.4
+777,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Sweden,2024,7.2
+778,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovenia,2001,6.4
+779,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovenia,2002,5.1
+780,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovenia,2003,4.6
+781,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovenia,2004,4.3
+782,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovenia,2005,4.9
+783,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovenia,2006,5.6
+784,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovenia,2007,4.1
+785,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovenia,2008,5.1
+786,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovenia,2009,5.3
+787,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovenia,2010,5.0
+788,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovenia,2011,4.2
+789,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovenia,2012,4.4
+790,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovenia,2013,3.9
+791,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovenia,2014,4.4
+792,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovenia,2015,5.0
+793,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovenia,2016,4.9
+794,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovenia,2017,4.3
+795,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovenia,2018,4.2
+796,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovenia,2019,4.6
+797,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovenia,2020,4.1
+798,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovenia,2021,3.1
+799,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovenia,2022,4.0
+800,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovenia,2023,5.4
+801,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovenia,2024,5.0
+802,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovakia,2002,6.7
+803,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovakia,2003,5.3
+804,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovakia,2004,6.8
+805,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovakia,2005,6.3
+806,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovakia,2006,6.6
+807,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovakia,2007,6.5
+808,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovakia,2008,6.0
+809,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovakia,2009,4.9
+810,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovakia,2010,4.7
+811,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovakia,2011,5.1
+812,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovakia,2012,5.3
+813,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovakia,2013,6.4
+814,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovakia,2014,6.7
+815,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovakia,2015,6.9
+816,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovakia,2016,7.4
+817,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovakia,2017,9.3
+818,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovakia,2018,8.6
+819,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovakia,2019,8.3
+820,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovakia,2020,7.6
+821,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovakia,2021,7.8
+822,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovakia,2022,7.4
+823,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovakia,2023,6.4
+824,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Slovakia,2024,7.5
+825,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Türkiye,2006,48.8
+826,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Türkiye,2007,46.9
+827,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Türkiye,2008,45.5
+828,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Türkiye,2009,44.3
+829,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Türkiye,2010,43.1
+830,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Türkiye,2011,41.9
+831,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Türkiye,2012,39.6
+832,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Türkiye,2013,37.5
+833,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Türkiye,2014,38.3
+834,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Türkiye,2015,36.4
+835,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Türkiye,2016,34.3
+836,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Türkiye,2017,32.5
+837,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Türkiye,2018,31.0
+838,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Türkiye,2019,28.7
+839,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Türkiye,2020,26.7
+840,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Türkiye,2021,23.1
+841,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Türkiye,2022,21.2
+842,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Türkiye,2023,19.5
+843,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,Türkiye,2024,18.7
+844,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,United Kingdom,2000,18.2
+845,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,United Kingdom,2001,17.8
+846,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,United Kingdom,2002,17.6
+847,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,United Kingdom,2003,12.1
+848,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,United Kingdom,2004,
+849,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,United Kingdom,2005,12.0
+850,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,United Kingdom,2006,11.2
+851,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,United Kingdom,2007,16.6
+852,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,United Kingdom,2008,16.9
+853,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,United Kingdom,2009,15.7
+854,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,United Kingdom,2010,14.8
+855,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,United Kingdom,2011,14.9
+856,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,United Kingdom,2012,13.4
+857,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,United Kingdom,2013,12.4
+858,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,United Kingdom,2014,11.8
+859,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,United Kingdom,2015,10.8
+860,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,United Kingdom,2016,11.2
+861,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,United Kingdom,2017,10.6
+862,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,United Kingdom,2018,10.7
+863,11/12/25 23:00:00,Annual,Percentage,Population,From 18 to 24 years,Total,United Kingdom,2019,10.9
