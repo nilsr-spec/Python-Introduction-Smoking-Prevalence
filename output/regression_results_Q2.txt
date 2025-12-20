@@ -2,7 +2,7 @@
 =================================================================
 Model:              OLS              Adj. R-squared:     0.210   
 Dependent Variable: smoke_pct        AIC:                381.5824
-Date:               2025-12-20 00:55 BIC:                387.4933
+Date:               2025-12-20 01:03 BIC:                387.4933
 No. Observations:   53               Log-Likelihood:     -187.79 
 Df Model:           2                F-statistic:        20.06   
 Df Residuals:       50               Prob (F-statistic): 5.37e-06

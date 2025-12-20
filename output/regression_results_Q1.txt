@@ -2,7 +2,7 @@
 =================================================================
 Model:              OLS              Adj. R-squared:     0.236   
 Dependent Variable: obs_value        AIC:                386.2264
-Date:               2025-12-20 00:56 BIC:                390.2043
+Date:               2025-12-20 18:24 BIC:                390.2043
 No. Observations:   54               Log-Likelihood:     -191.11 
 Df Model:           1                F-statistic:        43.38   
 Df Residuals:       52               Prob (F-statistic): 5.52e-07
